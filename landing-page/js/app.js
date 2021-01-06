@@ -14,13 +14,6 @@
 */
 
 /**
- * Define Global Variables
- * 
-*/
-
-
-/**
- * End Global Variables
  * Start Helper Functions
  * 
 */
